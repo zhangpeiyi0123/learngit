@@ -1,3 +1,8 @@
-Git is a version control system.
-Git is free software.
-this is oh my god.!
+class Aoo{
+ public static void main(String[] args){
+ 	System.out.println(Aoo.SayHello());
+ }
+ String SayHello(){
+ 	return "hello world";
+ }
+}
