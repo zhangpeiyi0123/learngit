@@ -1,8 +1,0 @@
-class Aoo{
- public static void main(String[] args){
- 	
- }
- String SayHello(){
- 	return "hello world";
- }
-}
