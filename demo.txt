@@ -3,6 +3,6 @@ Class Boo{
 		return "this is a new demo";
 	}
 	public static void main(String[] args){
-		System.out.println(Boo.Say());
+		System.out.println(new Boo().Say());
 	}
 }
